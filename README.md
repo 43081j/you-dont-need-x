@@ -20,3 +20,4 @@ Each case will be documented in its own file located in the `docs/` directory.
 - [is-travis](docs/is-travis.md)
 - [has-own-prop, has, etc.](docs/has-own-prop.md)
 - [extend, xtend, extend-shallow, defaults, etc.](docs/extend.md)
+- [path-is-absolute](docs/path-is-absolute.md)
