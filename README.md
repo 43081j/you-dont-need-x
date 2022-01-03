@@ -22,3 +22,4 @@ Each case will be documented in its own file located in the `docs/` directory.
 - [extend, xtend, extend-shallow, defaults, etc.](docs/extend.md)
 - [path-is-absolute](docs/path-is-absolute.md)
 - [import-from, import-cwd, etc.](docs/import-from.md)
+- [is-string, is-number, etc.](docs/is-string.md)
